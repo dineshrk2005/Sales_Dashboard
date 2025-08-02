@@ -6,7 +6,7 @@ This project presents a dynamic **Sales Analysis Dashboard** built using **Power
 
 ## 🖼️ Dashboard Preview
 
-![Sales Dashboard](Sales_Dashboard_IMG.png)
+![Sales Dashboard](https://github.com/dineshrk2005/Sales_Dashboard/blob/main/powerBI%20projects/Output%20Image/Screenshot%202025-08-02%20150911.png?raw=true)
 
 ---
 
